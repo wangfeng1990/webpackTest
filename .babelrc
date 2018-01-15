@@ -1,0 +1,4 @@
+{
+    // "presets":["react","es2015"]//现在流行使用env取代es2015
+    "presets":["react","env"]
+}
